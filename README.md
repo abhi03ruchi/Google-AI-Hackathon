@@ -66,6 +66,5 @@ Link :->
 
 ## Made By :
 * Abhiruchi Sarswat (https://github.com/abhi03ruchi)
-* Gargi Bhardwaj (https://github.com/GargiBhardwaj16)
 * Tarushi()
 # Google-AI-Hackathon
