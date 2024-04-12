@@ -11,10 +11,10 @@
     Choose to live, Choose Hope 😇: You are not alone🌺 .
     <br/>
     <br/>
-    <a href="https://github.com/abhi03ruchi/Beacon Of Hope "><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abhi03ruchi/Google-AI-Hackathon"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://beacon-of-hope.vercel.app/">View Demo</a>
+    <a href="https://beacon-of-hope-99-seven.vercel.app/">View Demo</a>
     .
   </p>
 </p>
@@ -60,8 +60,6 @@ Together, we can make a difference. We can save lives. Let's start today.
 
 ## Join the Community
 Feeling down? Need someone to talk to? Join our Telegram community for free and get instant support and motivation from our community members and mental health experts. We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
-
-Link :-> 
 
 
 ## Made By :
