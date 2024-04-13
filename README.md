@@ -64,5 +64,5 @@ Feeling down? Need someone to talk to? Join our Telegram community for free and 
 
 ## Made By :
 * Abhiruchi Sarswat (https://github.com/abhi03ruchi)
-* Tarushi()
+* Tarushi (https://github.com/Tarushi-igdtuw)
 # Google-AI-Hackathon
