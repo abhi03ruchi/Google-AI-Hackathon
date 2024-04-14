@@ -8,7 +8,7 @@
   <h3 align="center">Beacon Of Hope</h3>
 
   <p align="center">
-    Choose to live, Choose Hope 😇: You are not alone🌺 .
+    Choose life , Choose Hope 😇: You are not alone🌺 .
     <br/>
     <br/>
     <a href="https://github.com/abhi03ruchi/Beacon Of Hope "><strong>Explore the docs »</strong></a>
