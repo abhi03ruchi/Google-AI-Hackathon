@@ -11,10 +11,10 @@
     Choose to live, Choose Hope 😇: You are not alone🌺 .
     <br/>
     <br/>
-    <a href="https://github.com/abhi03ruchi/Google-AI-Hackathon"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abhi03ruchi/Beacon Of Hope "><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://beacon-of-hope-99-seven.vercel.app/">View Demo</a>
+    <a href="https://beacon-of-hope.vercel.app/">View Demo</a>
     .
   </p>
 </p>
@@ -41,9 +41,9 @@ Our website offers a collection of videos and tools to help you manage your ment
 
 <h3> Salient Features </h3>
 <ul>
- <li>Our website offers a range of resources and tools that you can use to create your own wellness plan and track your progress. </li>
-   <li> You can set goals, monitor your habits, and celebrate your achievements for this We have made three crew extensions that is one is is to motivate the individuals the other  provides you with a daily dose of humor and joy. </li>
-   <li> And one Chrome extensions provides an personalized alarm and message to start your day on a positive note.</li>
+     <li> Harnesses the power of Lumina AI Bot for personalized mental health support and guidance. </li>
+     <li> Seamlessly translate content with Google Translate to cater to both indian and global audience.  </li>
+ <li>Our website offers a range of resources and tools for wellness. </li>
     <li> Responsive web app and user friendly interface.</li>
 </ul>
  
@@ -57,9 +57,9 @@ Together, we can make a difference. We can save lives. Let's start today.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 
 
-
-## Join the Community
-Feeling down? Need someone to talk to? Join our Telegram community for free and get instant support and motivation from our community members and mental health experts. We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
+## TALK TO LUMINA BOT 👩🏼‍🦰
+Feeling down? Need someone to talk to?
+Connect with LUMINA  (an AI bot made using google gemini api key) ,for  free and instant support . We are here for you 24/7! 🤗💬 #MentalHealthMatters #SupportCommunity #GetHelpNow
 
 
 ## Made By :
