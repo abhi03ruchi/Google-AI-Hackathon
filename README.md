@@ -35,9 +35,7 @@
 
 Our project offers a safe and non-judgmental space where you can connect with others who have been where individuals are and can offer empathy and support. they can also read about others experiences and learn from their insights. Let's build a stronger and more compassionate community! 🌟🤗 #ConnectionMatters #EmpathyWins #TogetherWeCan
 
-The website offers a simple and easy way to get started. Just create your own ID, log in, and explore the stories, resources, and support available to you. You can also reach out to us by email and get personalized feedback and advice. We are here for you! ❤️📧
 
-Our website offers a collection of videos and tools to help you manage your mental health and stay positive.
 
 <h3> Salient Features </h3>
 <ul>
