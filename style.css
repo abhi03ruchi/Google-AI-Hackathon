@@ -72,17 +72,7 @@ nav{
 .nav-links li {
   position: relative;
 }
-/* .nav-links li a::before {
-  content: "";
-  display: block;
-  top: 24px;
-  height: 3px;
-  width: 0%;
-  background-color:#c80e13;
-  position: absolute;
-  transition: all ease-in-out 250ms;
-  margin: 0 0 0 10%;
-} */
+
 .nav-links li a:hover::before{
   width: 80%;
 }
@@ -220,14 +210,12 @@ nav{
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  /* background-color: brown; */
 }
 
 .left {
   flex: 0.5;
   padding: 65px;
   margin: 30px;
-  /* background-color: #61DAFB; */
 }
 
 .left h1 {
@@ -238,9 +226,7 @@ nav{
 }
 
 .right {
-  flex: 0.4;
-  padding-top: 20px;
-  /* background-color: orange; */
+  flex: 0.5;
 }
 
 .right img {
@@ -941,19 +927,24 @@ modal-header {
 
 .chatbot-toggler {
   position: fixed;
-  bottom: 30px;
-  right: 65px;
+  bottom: 45px;
+  right: 95px;
   outline: none;
   border: none;
-  height: 40px;
-  width: 40px;
+  height: 80px;
+  width: 80px;
   display: flex;
   cursor: pointer;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
   background:#ff5e6c;
+  background:#ffaaab;
   transition: all 0.2s ease;
+}
+.chatbot-toggler .faceImg img{
+  width: 68px;
+  height: 68px;
 }
 body.show-chatbot .chatbot-toggler {
   transform: rotate(90deg);
@@ -973,7 +964,6 @@ body.show-chatbot .chatbot-toggler span:last-child {
   position: fixed;
   right: 35px;
   bottom: 90px;
-  width: 420px;
   background:  #fff5d7;
   border-radius: 15px;
   overflow: hidden;
