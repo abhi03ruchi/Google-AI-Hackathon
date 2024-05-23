@@ -40,13 +40,9 @@ The COVID-19 pandemic further exacerbated the mental health crisis , with studie
 
 ## What it does
 <ul>
-  
     <li>Within the app, users can find inspiring stories of resilience and recovery from individuals who have overcome challenges related to suicidal thoughts or mental health struggles. These stories serve as a source of inspiration and encouragement for those seeking hope and understanding.      </li>
-
      <li> The Lumina Bot integrated with it is designed to be a supportive companion for users navigating difficult emotions and experiences related to suicidal thoughts or the loss of a loved one to suicide. Whether one is feeling overwhelmed, hopeless, or simply in need of someone to talk to, Lumina Bot is available 24/7 to offer compassionate support and guidance.   </li>
-
-     <li> Finally, our platform offers a plethora of valuable resources such as helpline numbers and expert psychologists' videos to help the user navigate through whatever challenges they may be facing. These resources are designed to empower them with the tools and support they need to overcome any obstacles that may come their way.   </li>
-
+     <li> Finally, our platform offers a plethora of valuable resources such as helpline numbers and expert psychologists' videos to help the user navigate through whatever challenges they may be facing. These resources are designed to empower them with the tools and support they need to overcome any obstacles that may come their way.   </li> 
 </ul>
 
 
