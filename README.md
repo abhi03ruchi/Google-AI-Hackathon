@@ -23,7 +23,7 @@
 *[Inspiration](#inspiration)
 * [What it does](#what-it-does)
 * [Built With](#built-with)
-* *[Challenges We Ran Into](#challenges-we-ran-into)
+* [Challenges We Ran Into](#challenges-we-ran-into)
 * [Made By](#made-by)
 
 
