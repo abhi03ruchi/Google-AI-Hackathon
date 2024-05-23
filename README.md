@@ -28,12 +28,13 @@
 
 
 ## Inspiration
-The inspiration behind creating the application stemmed from a deep concern for the alarming prevalence of suicidal thoughts and the devastating impact they have on individuals, families, and communities. As we witness an increasing number of students struggling with mental health challenges, including suicidal ideation, it becomes clear that there is a critical need for some action in that direction.
+<ul> 
+<li>The inspiration behind creating the application stemmed from a deep concern for the alarming prevalence of suicidal thoughts and the devastating impact they have on individuals, families, and communities. As we witness an increasing number of students struggling with mental health challenges, including suicidal ideation, it becomes clear that there is a critical need for some action in that direction.</li>
 
-According to recent statistics, suicide remains one of the leading causes of death among young people worldwide, with a significant portion of these cases involving students. The pressure to excel academically, navigate social dynamics, and cope with various stressors can contribute to feelings of overwhelm and hopelessness. Studies show that suicide rates among students have been on the rise in recent years, highlighting the urgent need for intervention and support.
+<li>According to recent statistics, suicide remains one of the leading causes of death among young people worldwide, with a significant portion of these cases involving students. The pressure to excel academically, navigate social dynamics, and cope with various stressors can contribute to feelings of overwhelm and hopelessness. Studies show that suicide rates among students have been on the rise in recent years, highlighting the urgent need for intervention and support.</li>
 
-The COVID-19 pandemic further exacerbated the mental health crisis , with studies indicating a surge in suicidal ideation and attempts following the onset of the pandemic. Reports suggest that the disruption of routines, social isolation, economic uncertainty, and fear of the virus contributed to heightened levels of distress among individuals of all ages, including students.
-
+<li>The COVID-19 pandemic further exacerbated the mental health crisis , with studies indicating a surge in suicidal ideation and attempts following the onset of the pandemic. Reports suggest that the disruption of routines, social isolation, economic uncertainty, and fear of the virus contributed to heightened levels of distress among individuals of all ages, including students.</li>
+</ul>
 <img width="1412" alt="Screenshot 2023-05-28 at 9 55 54 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/a9110273-8084-4320-887b-3cde505e4d59">
 
 
