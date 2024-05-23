@@ -23,7 +23,7 @@
 *[Inspiration](#inspiration)
 * [What it does](#what-it-does)
 * [Built With](#built-with)
-* [Join the Community](#join-the-community)
+* *[Challenges We Ran Into](#challenges-we-ran-into)
 * [Made By](#made-by)
 
 
@@ -70,6 +70,14 @@ Together, we can make a difference. We can save lives. Let's start today.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 
+## Challenges we ran into
+We encountered several hurdles, including:
+<ul>
+<li> Working with Generative AI for the very first time: Gen AI, although a new buzzword, presented a steep learning curve for our team. As we ventured into incorporating Generative AI technology into our chatbot for the first time, we faced challenges in understanding its capabilities, limitations, and implementation. We had to invest time and resources in learning the intricacies of this emerging technology to ensure its effective integration into our platform. </li>
+
+<li> Mental Health is a Sensitive Topic: Addressing mental health, particularly suicidal thoughts, demanded utmost sensitivity and empathy. Crafting a chatbot that could effectively empathize with individuals in distress while providing appropriate support and guidance was a delicate balance. We had to meticulously design dialogue flows and responses to ensure they were respectful, non-judgmental, and aligned with best practices in mental health communication.</li>
+
+<li> Responsive Website Design: Ensuring that our website was responsive across all devices posed its own set of challenges. We had to navigate the complexities of designing and optimizing the user interface and experience for various screen sizes, resolutions, and orientations. This involved rigorous testing and iteration to ensure that users could access and interact with our platform seamlessly, regardless of the device they were using. </li>  </ul>
 
 ## TALK TO LUMINA BOT 👩🏼‍🦰
 Feeling down? Need someone to talk to?
