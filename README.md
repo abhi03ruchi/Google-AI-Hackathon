@@ -20,29 +20,45 @@
 </p>
 
 ## Table Of Contents
-
-* [About the Project](#about-the-project)
+*[Inspiration](#inspiration)
+* [What it does](#what-it-does)
 * [Built With](#built-with)
 * [Join the Community](#join-the-community)
 * [Made By](#made-by)
 
-## About The Project
+
+## Inspiration
+The inspiration behind creating the application stemmed from a deep concern for the alarming prevalence of suicidal thoughts and the devastating impact they have on individuals, families, and communities. As we witness an increasing number of students struggling with mental health challenges, including suicidal ideation, it becomes clear that there is a critical need for some action in that direction.
+
+According to recent statistics, suicide remains one of the leading causes of death among young people worldwide, with a significant portion of these cases involving students. The pressure to excel academically, navigate social dynamics, and cope with various stressors can contribute to feelings of overwhelm and hopelessness. Studies show that suicide rates among students have been on the rise in recent years, highlighting the urgent need for intervention and support.
+
+The COVID-19 pandemic further exacerbated the mental health crisis , with studies indicating a surge in suicidal ideation and attempts following the onset of the pandemic. Reports suggest that the disruption of routines, social isolation, economic uncertainty, and fear of the virus contributed to heightened levels of distress among individuals of all ages, including students.
+
+
+## What it does
 <img width="1412" alt="Screenshot 2023-05-28 at 9 55 54 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/a9110273-8084-4320-887b-3cde505e4d59">
-<img width="1412" alt="Screenshot 2023-05-28 at 9 56 07 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/b0288cc8-20e4-4ab8-870b-051867aead3a">
-<img width="806" alt="Screenshot 2023-05-28 at 11 44 30 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/e3a7eac4-c178-4b9b-88f4-770544637af5">
+
 
 <img width="1412" alt="Screenshot 2023-05-28 at 9 56 17 PM" src="https://github.com/abhi03ruchi/BeaconOfHope/assets/105661636/96cd4fee-d652-443f-a7ce-b9946d2cf941">
 
-Our project offers a safe and non-judgmental space where you can connect with others who have been where individuals are and can offer empathy and support. they can also read about others experiences and learn from their insights. Let's build a stronger and more compassionate community! 🌟🤗 #ConnectionMatters #EmpathyWins #TogetherWeCan
-
-
-
-<h3> Salient Features </h3>
 <ul>
-     <li> Harnesses the power of Lumina AI Bot for personalized mental health support and guidance. </li>
-     <li> Seamlessly translate content with Google Translate to cater to both indian and global audience.  </li>
- <li>Our website offers a range of resources and tools for wellness. </li>
-    <li> Responsive web app and user friendly interface.</li>
+    <li>Within the app, users can find inspiring stories of resilience and recovery from individuals who have overcome challenges related to suicidal thoughts or mental health struggles. These stories serve as a source of inspiration and encouragement for those seeking hope and understanding.      </li>
+
+     <li> The Lumina Bot integrated with it is designed to be a supportive companion for users navigating difficult emotions and experiences related to suicidal thoughts or the loss of a loved one to suicide. Whether one is feeling overwhelmed, hopeless, or simply in need of someone to talk to, Lumina Bot is available 24/7 to offer compassionate support and guidance.      </li>
+
+     <li> Finally, our platform offers a plethora of valuable resources such as helpline numbers and expert psychologists' videos to help the user navigate through whatever challenges they may be facing. These resources are designed to empower them with the tools and support they need to overcome any obstacles that may come their way.      </li>
+
+</ul>
+
+
+
+<h3> Accomplishments that we're proud of </h3>
+<ul>
+<li> We are proud to have successfully integrated a chatbot into our website, providing users with an interactive and responsive tool for accessing support and guidance. The chatbot serves as a virtual companion, offering personalised assistance to individuals struggling with suicidal thoughts or in need of emotional support. </li>
+
+<li>  One of our primary accomplishments is our ability to cater to the diverse needs of all users. Our site offers a wealth of resources, including hope stories, coping strategies, and crisis hotlines, designed to support individuals struggling with suicidal thoughts, as well as their friends, family members, and mental health professionals.</li>
+
+<li>  To ensure wider reach and accessibility, our website is available in both English and Hindi. By offering content in multiple languages, we aim to break down language barriers and provide support to individuals from diverse linguistic backgrounds, reaching a broader audience and making a meaningful impact in their lives.</li>
 </ul>
  
 Together, we can make a difference. We can save lives. Let's start today.
